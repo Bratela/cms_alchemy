@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="Rails cms_alchemy: development" uuid="ed2022bf-23fb-42b6-89e2-b95e6f2e7742">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source name="Rails cms_alchemy: test" uuid="ebfa7fa7-1fcb-4eeb-9fc6-1ad844ff61fc">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
